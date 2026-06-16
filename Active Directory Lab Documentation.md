@@ -2,7 +2,7 @@
 
 A walkthrough of setting up an Active Directory lab using VirtualBox, Windows Server 2019, and Windows 10.
 
----<img width="1084" height="691" alt="AD-LAB" src="https://github.com/user-attachments/assets/acdfa91e-5928-4805-8882-7beaf69cf42f" />
+<img width="1084" height="691" alt="AD-LAB" src="https://github.com/user-attachments/assets/acdfa91e-5928-4805-8882-7beaf69cf42f" />
 
 ## 📋 What You Need
 
