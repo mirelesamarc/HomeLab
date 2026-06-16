@@ -13,7 +13,7 @@ Windows 10 Domain Join
 # Documentation
 Refer to:
 
-Step 1: Active Directory Lab Documentation
+Step 1: [Active Directory Lab Documentation](https://github.com/mirelesamarc/HomeLab/blob/main/Active%20Directory%20Lab%20Documentation.md)
 # Contributing
 Feel free to submit any pull requests for improvements to this. It's my first time doing hands-on with this, so any input is welcome!
 # Author
